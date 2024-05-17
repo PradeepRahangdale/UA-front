@@ -41,7 +41,7 @@ const Form = () => {
 
       <div class="signup">
         <label for="chk" aria-hidden="true">
-          Sign up
+          Signs up
         </label>
         <input
           type="text"
